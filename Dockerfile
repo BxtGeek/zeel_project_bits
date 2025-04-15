@@ -1,4 +1,4 @@
-# Use the official Nginx image from Docker 
+# Use the official Nginx image from Docker Hub
 FROM nginx:alpine
 
 # Copy the static website content into the Nginx HTML directory
